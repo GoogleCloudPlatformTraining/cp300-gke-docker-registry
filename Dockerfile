@@ -1,7 +1,7 @@
 # Create a website with Nginx
+FROM ubuntu:14.04.2
 MAINTAINER Firstname Lastname "myemail.com"
 ENV REFRESHED_AT 2015-03-12
-FROM ubuntu:14.04.2
 RUN apt-get -qq update
 RUN apt-get -qq upgrade
 RUN apt-get -qq -y install nginx
