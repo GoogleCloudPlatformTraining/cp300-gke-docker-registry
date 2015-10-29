@@ -1,2 +1,2 @@
 # cp300-gke-docker-registry
-For GKE module 1 Hands-On training section
+Used in the CP300 course - For GKE module 1 Hands-On training section
